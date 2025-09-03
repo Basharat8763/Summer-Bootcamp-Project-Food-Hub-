@@ -1,3 +1,3 @@
-# Summer-Bootcamp-Project-Food-Hub-
+# Food Hub Project
 This is my summer bootcamp project on food hub. In this project i performed the basic and pre analysis steps on my data set, then performed data cleaning and after that i performed EDA on my dataset and made the project and project report with my analysis and insights. Enjoy....
 
